@@ -1,0 +1,16 @@
+{
+  "name": "tabjay",
+  "version": "1.0.0",
+  "description": "an app that let you control tabs like a vj",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "author": "Daniel Vettorazi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.2.0"
+  }
+}
